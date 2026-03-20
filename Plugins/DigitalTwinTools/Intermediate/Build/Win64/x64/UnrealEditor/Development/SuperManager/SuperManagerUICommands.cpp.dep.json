@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\private\\customuicommand\\supermanageruicommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc_ee_h\\intermediate\\build\\win64\\x64\\fcc_ee_heditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\supermanager\\definitions.supermanager.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\public\\customuicommand\\supermanageruicommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

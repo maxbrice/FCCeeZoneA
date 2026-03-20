@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc\\plugins\\digitaltwintools\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaltwintools\\uht\\digitaltwintools.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc\\intermediate\\build\\win64\\x64\\fcceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaltwintools\\definitions.digitaltwintools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\digitaltwintools\\private\\floatingactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc_ee_h\\intermediate\\build\\win64\\x64\\fcc_ee_heditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaltwintools\\definitions.digitaltwintools.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\digitaltwintools\\public\\floatingactor.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaltwintools\\uht\\floatingactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

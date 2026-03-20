@@ -1,0 +1,44 @@
+{
+    "version": "2.1.0",
+    "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+    "runs": [
+        {
+            "results": [
+                {
+                    "ruleId": "C4996",
+                    "message": {
+                        "text": "'FMessageDialog::Open': Use the overload of Open that takes the Title by-value. - Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile."
+                    },
+                    "analysisTarget": {
+                        "uri": "file:///D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Source/DigitalTwinTools/Private/AssetActions/QuickMaterialCreationWidget.cpp"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Source/DigitalTwinTools/Public/DebugHeader.h"
+                                },
+                                "region": {
+                                    "startLine": 29,
+                                    "startColumn": 36,
+                                    "snippet": {
+                                        "text": "            return FMessageDialog::Open(MsgType, FText::FromString(Message), &MsgTitle);"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "tool": {
+                "driver": {
+                    "name": "MSVC",
+                    "shortDescription": {
+                        "text": "Microsoft Visual C++ Compiler Warnings/Errors"
+                    },
+                    "informationUri": "https://docs.microsoft.com/cpp/error-messages/compiler-errors-1/c-cpp-build-errors"
+                }
+            }
+        }
+    ]
+}

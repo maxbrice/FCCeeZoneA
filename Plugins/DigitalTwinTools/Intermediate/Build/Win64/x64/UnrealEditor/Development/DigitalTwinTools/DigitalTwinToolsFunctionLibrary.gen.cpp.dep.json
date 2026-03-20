@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc\\plugins\\digitaltwintools\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaltwintools\\uht\\digitaltwintoolsfunctionlibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc\\intermediate\\build\\win64\\x64\\fcceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaltwintools\\definitions.digitaltwintools.h",
+            "d:\\dev\\fcc\\plugins\\digitaltwintools\\source\\digitaltwintools\\public\\digitaltwintoolsfunctionlibrary.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\staticmesheditor\\public\\staticmesheditorsubsystem.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\staticmeshdescription\\public\\uvmapsettings.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmeshdescription\\uht\\uvmapsettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\staticmesheditor\\public\\staticmesheditorsubsystemhelpers.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\meshmerge\\meshmergingsettings.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\meshmergingsettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\meshmerge\\meshproxysettings.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\meshproxysettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmesheditor\\uht\\staticmesheditorsubsystemhelpers.generated.h",
+            "d:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmesheditor\\uht\\staticmesheditorsubsystem.generated.h",
+            "d:\\dev\\fcc\\plugins\\digitaltwintools\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaltwintools\\uht\\digitaltwintoolsfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

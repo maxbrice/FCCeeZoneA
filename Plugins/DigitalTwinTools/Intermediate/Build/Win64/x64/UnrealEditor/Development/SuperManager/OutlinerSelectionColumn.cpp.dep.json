@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\private\\customoutlinercolumn\\outlinerselectioncolumn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc_ee_h\\intermediate\\build\\win64\\x64\\fcc_ee_heditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\supermanager\\definitions.supermanager.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\public\\customoutlinercolumn\\outlinerselectioncolumn.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\isceneoutlinercolumn.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\sceneoutlinerfwd.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\public\\customstyle\\supermanagerstyle.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\actortreeitem.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\actorbasetreeitem.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\isceneoutlinertreeitem.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\sceneoutliner\\public\\sceneoutlinerstandalonetypes.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\templates\\maxsizeof.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\supermanager\\public\\supermanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\digitaltwintools\\private\\digitaltwintools.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\fcc_ee_h\\intermediate\\build\\win64\\x64\\fcc_ee_heditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaltwintools\\definitions.digitaltwintools.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\digitaltwintools\\public\\digitaltwintools.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\source\\digitaltwintools\\public\\digitaltwintoolsfunctionlibrary.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\staticmesheditor\\public\\staticmesheditorsubsystem.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\staticmeshdescription\\public\\uvmapsettings.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmeshdescription\\uht\\uvmapsettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\editor\\staticmesheditor\\public\\staticmesheditorsubsystemhelpers.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\public\\meshmerge\\meshmergingsettings.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\meshmergingsettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\public\\meshmerge\\meshproxysettings.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\meshproxysettings.generated.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmesheditor\\uht\\staticmesheditorsubsystemhelpers.generated.h",
+            "d:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\staticmesheditor\\uht\\staticmesheditorsubsystem.generated.h",
+            "d:\\dev\\fcc_ee_h\\plugins\\digitaltwintools\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaltwintools\\uht\\digitaltwintoolsfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

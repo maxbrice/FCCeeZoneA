@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"DigitalTwinTools": "UnrealEditor-DigitalTwinTools.dll",
+		"SuperManager": "UnrealEditor-SuperManager.dll"
+	}
+}

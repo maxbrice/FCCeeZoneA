@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SuperManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/dev/FCC_ee_H/Intermediate/Build/Win64/x64/FCC_ee_HEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/Module.SuperManager.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/SuperManager.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/OutlinerSelectionColumn.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/SuperManagerStyle.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/SuperManagerUICommands.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/AdvanceDeletionWidget.cpp.obj"
+"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/Default.rc2.res"
+/OUT:"D:/dev/FCC_ee_H/Plugins/DigitalTwinTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/SuperManager/UnrealEditor-SuperManager.lib"

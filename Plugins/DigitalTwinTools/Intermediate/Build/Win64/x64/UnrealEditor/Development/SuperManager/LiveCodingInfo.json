@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SuperManager.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"OutlinerSelectionColumn.cpp.obj",
+			"SuperManagerStyle.cpp.obj",
+			"SuperManagerUICommands.cpp.obj",
+			"AdvanceDeletionWidget.cpp.obj",
+			"SuperManager.cpp.obj"
+		]
+	}
+}

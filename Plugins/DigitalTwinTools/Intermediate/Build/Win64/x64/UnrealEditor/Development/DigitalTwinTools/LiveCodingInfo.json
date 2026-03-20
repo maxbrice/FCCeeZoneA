@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DigitalTwinTools.cpp.obj": [
+			"DigitalTwinTools.init.gen.cpp.obj",
+			"DigitalTwinToolsFunctionLibrary.gen.cpp.obj",
+			"FloatingActor.gen.cpp.obj",
+			"QuickActorActionWidget.gen.cpp.obj",
+			"QuickAssetAction.gen.cpp.obj",
+			"QuickMaterialCreationWidget.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"QuickActorActionWidget.cpp.obj",
+			"QuickAssetAction.cpp.obj",
+			"QuickMaterialCreationWidget.cpp.obj",
+			"DigitalTwinTools.cpp.obj",
+			"DigitalTwinToolsFunctionLibrary.cpp.obj",
+			"FloatingActor.cpp.obj"
+		]
+	}
+}
